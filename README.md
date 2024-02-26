@@ -1,3 +1,10 @@
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/R03zWv5p1oNSQd91EP/giphy.gif" width="100"/>
+</div>
+
+
+
+
 Hi, I'm Lex!
 
 - 🔭 I’m a software engineer!
@@ -6,4 +13,3 @@ Hi, I'm Lex!
 - 📫 How to reach me: lexusmfannin@gmail.com
 - 😄 Pronouns: they/she
 - ⚡ Fun fact: I am an artist as well as a software developer, I love to have my hands in any creative project!
-
