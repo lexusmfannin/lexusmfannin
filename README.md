@@ -19,7 +19,7 @@ Hi, I'm Lex!
 - ⚡ Fun fact: I am an artist as well as a software developer. I love to have my hands in any creative project!
 - 📫 How to reach me: lexusmfannin@gmail.com
 <div id="badges">
-  <a href="your-linkedin-URL">
+  <a href="https://www.linkedin.com/in/lexfannin/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
