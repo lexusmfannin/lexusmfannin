@@ -15,7 +15,6 @@ Hi, I'm Lex!
 - 🔭 I’m a Full Stack Software Engineer
 - 🌱 I’m currently exploring more about AI/Machine Learning and Cybersecurity
 - 🌱 Open to collaborate: I would love to lend a second pair of eyes to your code to check for bugs and mistakes! 
-- 😄 Pronouns: they/them
 - ⚡ Fun fact: I am an artist as well as a software developer. I love to have my hands in any creative project!
 - 📫 How to reach me: lexusmfannin@gmail.com
 <div id="badges">
